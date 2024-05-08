@@ -1,4 +1,67 @@
-h2.img{
-    float: right;
-   
+header {
+    background-color: brown;
+    color: #fff;
+    padding: 10px 0;
+    text-align: center;
+  }
+
+  nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  nav ul li {
+    display: inline;
+    margin-right: 20px;
+  }
+  
+  nav ul li a {
+    color: #fff;
+    text-decoration: none;
+  }
+  div {
+    margin: 0 auto; 
+    padding: 20px; /*Add padding to the div */
+    text-align: center; /* Justify the text within the div */
 }
+
+div p {
+    margin: 20px 0; /* Add margin around the paragraph */
+}
+
+  footer {
+    background-color: brown;
+    color: #fff;
+    text-align: center;
+    padding: 10px 0;
+  }.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 30px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+    border-radius: 50%;
+  }
+  
+  .fa:hover {
+      opacity: 0.7;
+  }
+  
+  .fa-facebook {
+    background: #dfe1e4;
+    color: white;
+  }
+  
+  .fa-twitter {
+    background: #55ACEE;
+    color: white;
+  }
+  
+ 
+  .fa-linkedin {
+    background: #007bb5;
+    color: white;
+  }
+  
